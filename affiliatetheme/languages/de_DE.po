@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-01 22:30:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: Affiliatetheme\n"
+
+msgid "Price from - to"
+msgstr "Preis von - bis"
+
+msgid "Product description"
+msgstr "Produktbeschreibung"
+
+msgid "Review"
+msgstr "Bewertung"
+
+msgid "In cooperation with the affiliate partner"
+msgstr "In Kooperation mit dem Affiliatepartner"
+
+msgid "Carefree order"
+msgstr "Sorgenfreie Bestellung"
+
+msgid "Display products"
+msgstr "Produkte anzeigen"
+
+msgid "VAT included."
+msgstr "inkl. MwSt."
+
+msgid "Brand"
+msgstr "Marke"
+
+msgid "Brands"
+msgstr "Marken"
+
+msgid "Add to cart"
+msgstr "in den Warenkorb"
+
+msgid "more"
+msgstr "mehr"
+
+msgid "last updated on %s at %s."
+msgstr "am %s um %s Uhr aktualisiert"
+
+msgid "The price was last updated on %s at %s."
+msgstr "Preis wurde zuletzt am %s um %s Uhr aktualisiert"
+
+msgid "Share"
+msgstr "Teilen"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Types"
+msgstr "Typen"
+
+msgid "select %s"
+msgstr "%s auswählen"
+
+msgid "Teaser-Slider"
+msgstr "Teaser-Slider"
+
+msgid "Carousel-Indicator"
+msgstr "Karusell-Zeiger"
+
+msgid "Carousel-Control"
+msgstr "Karusell-Steuer"
+
+msgid "Should the carousel indicator buttons be displayed?"
+msgstr "Sollen die Karussell-Zeiger-Buttons angezeigt werden?"
+
+msgid "Should the carousel control buttons be displayed?"
+msgstr "Sollen die Karussell-Steuer-Pfeile angezeigt werden?"
+
+msgid "fade in"
+msgstr "einblenden"
+
+msgid "Slide-Effect"
+msgstr "Dia-Effekt"
+
+msgid "Slide right to left"
+msgstr "Slide von rechts nach links"
+
+msgid "Slide fade out"
+msgstr "Slide ausblenden"
+
+msgid "Data interval"
+msgstr "Zwischenzeit / Pause"
+
+msgid "Waiting time in milliseconds for the automatic cycle."
+msgstr "Die Höhe der Wartezeit in Millisekunden für automatischen Zyklus."
+
+msgid "Images"
+msgstr "Bilder"
+
+msgid "Image"
+msgstr "Bild"
+
+msgid "Add image"
+msgstr "Bild hinzufügen"
+
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Should this slider contain a text?"
+msgstr "Soll dieser Slider einen Text beinhalten?"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Should this slider be linked to a specific page/URL? Please specify %s"
+msgstr "Soll dieser Slider auf eine bestimmte Seite/URL verlinken? Bitte mit %s angeben."
+
+msgid "External Link"
+msgstr "Externer Link"
+
+msgid "Open in a new window."
+msgstr "Im neuen Fenster öffnen."
+
+msgid "Is this an external link?"
+msgstr "Handelt es sich hierbei um einen externen Link?"
+
+msgid "If so, this option can be opened in a new window."
+msgstr "Falls ja, kann dieser durch diese Option in einem neuen Fenster geöffnet werden."
+
+msgid "Nofollow"
+msgstr "Nofollow"
+
+msgid "add nofollow."
+msgstr "nofollow hinzufügen"
+
+msgid "Should this link be marked with \"nofollow\"?"
+msgstr "Soll dieser Link mit \"nofollow\" markiert werden?"
+
+msgid "Product"
+msgstr "Produkt"
+
+msgid "Products"
+msgstr "Produkte"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Offer"
+msgstr "Angebot"
+
+msgid "Offers"
+msgstr "Angebote"
+
+msgid "Price"
+msgstr "Preis"
+
+msgid "Box shadow color"
+msgstr "Box-Schattenfarbe"
+
+msgid "Box shadow spread"
+msgstr "Box-Schattengröße in Pixel"
+
+msgid "Lateral distance of navigation"
+msgstr "Seitlicher Abstand der Navigation"
+
+msgid "Lateral line color in navigation"
+msgstr "Trennstrichfarbe in der Navigation"
+
+msgid "Lateral line thickness"
+msgstr "Trenstrichstärke"
+
+msgid "Hide lateral line"
+msgstr "Trennstriche ausblenden"
+
+msgid "Cookie policy"
+msgstr "Cookie-Hinweis"
+
+msgid "Disable cookie policy functionality?"
+msgstr "Cookie-Hinweis-Funktionalität deaktivieren?"
+
+msgid "Cookie policy message"
+msgstr "Hinweistext"
+
+msgid "Please enter a text, which should be displayed in the notification bar."
+msgstr "Bitte geben hier einen Text ein, der im Hinweisbalken angezeigt werden soll."
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Select section for your cookie notice."
+msgstr "Wählen Sie einen Bereich für Ihre Cookie-Benachrichtigung."
+
+msgid "Top"
+msgstr "Oben"
+
+msgid "Bottom"
+msgstr "Unten"
+
+msgid "Cookie expiry"
+msgstr "Cookie-Gültigkeit"
+
+msgid "The amount of time that cookie should be stored for."
+msgstr "Die Zeitspanne, in der Cookies gespeichert werden sollen."
+
+msgid "1 day"
+msgstr "1 Tage"
+
+msgid "1 week"
+msgstr "Eine Woche"
+
+msgid "1 month"
+msgstr "1 Monat"
+
+msgid "3 months"
+msgstr "3 Monate"
+
+msgid "6 months"
+msgstr "6 Monate"
+
+msgid "1 year"
+msgstr "Ein Jahr"
+
+msgid "infinity"
+msgstr "Unbegrenzt"
+
+msgid "More info link"
+msgstr "Link für mehr Informationen"
+
+msgid "Enter the full URL starting with http://"
+msgstr "Geben Sie die vollständige URL ein, beginnend mit http://"
+
+msgid "The text of the more info button."
+msgstr "Buttontext für mehr Informationen"
+
+msgid "Standard is 'more information'"
+msgstr "Standard ist 'mehr Informationen'"
+
+msgid "more information"
+msgstr "mehr Informationen"
+
+msgid "Disable more information button?"
+msgstr "Button für mehr Informationen ausblenden?"
+
+msgid "Should the button be hidden for more information?"
+msgstr "Soll das Button für mehr Informationen ausgeblendet werden?"
+
+msgid "Button text"
+msgstr "Buttontext"
+
+msgid "Standard is 'Ok'"
+msgstr "Standard ist 'Ok'"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Animation"
+msgstr "Animation"
+
+msgid "Cookie notice acceptance animation."
+msgstr "Animation nach dem Akzeptieren des Hinweis-Cookies "
+
+msgid "Fade"
+msgstr "Ausblenden"
+
+msgid "Slide"
+msgstr "Sliden"
+
+msgid "To make this site work properly, we place small data files called cookies on your device."
+msgstr "Damit diese Seite ordnungsgemäß funktioniert, platzieren wir kleine Datendateien auf Ihrem Gerät, die als Cookies bezeichnet werden."
+
+msgid "Message font size"
+msgstr "Hinweis Textgröße"
+
+msgid "Accept button font size"
+msgstr "Ok. Button-Textgröße"
+
+msgid "Read more button font size"
+msgstr "Mehr Informationen Textgröße"
+
+msgid "Cookie policy background opacitiy (%)"
+msgstr "Hinweis-Balken HG-Deckkraft"
+
+msgid "Message font color"
+msgstr "Hinweis Textfarbe"
+
+msgid "Message background color"
+msgstr "Hinweis Hintergrundfarbe"
+
+msgid "Accept button font color"
+msgstr "Ok. Button-Textfarbe"
+
+msgid "Accept button bg color"
+msgstr "Ok. Button-Hintergrundfarbe "
+
+msgid "Read more button font color"
+msgstr "Mehr Informationen Button-Textfarbe"
+
+msgid "Read more button background color"
+msgstr "Mehr Informationen Button-HG-Farbe"
+
+msgid "No results found."
+msgstr "Keine Ergebnisse gefunden."
+
+msgid "%s products found."
+msgstr "%s Produkte gefunden."
+
+msgid "One product found."
+msgstr "Ein Produkt gefunden."
+
+msgid "Sorry, no products found."
+msgstr "Leider wurden keine Produkte gefunden."
+
+msgid "Your search for \"%s\" found <span>%s</span> results"
+msgstr "Ihre Suche nach \"%s\" ergab <span>%s</span> Treffer"

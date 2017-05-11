@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-01 22:30:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: Affiliatetheme\n"
+
+msgid "Price from - to"
+msgstr "Fiyat aralığı"
+
+msgid "Product description"
+msgstr "Ürün açıklaması"
+
+msgid "Review"
+msgstr "Değerlendirme"
+
+msgid "In cooperation with the affiliate partner"
+msgstr "Bağlı şirket işbirliğinde"
+
+msgid "Carefree order"
+msgstr "Kaygısız sipariş"
+
+msgid "Display products"
+msgstr "Ürünleri görüntüle"
+
+msgid "VAT included."
+msgstr "KDV dahil"
+
+msgid "Brand"
+msgstr "Marka"
+
+msgid "Brands"
+msgstr "Markalar"
+
+msgid "Add to cart"
+msgstr "Sepete ekle"
+
+msgid "more"
+msgstr "daha fazlası"
+
+msgid "last updated on %s at %s."
+msgstr "en son %s tarihinde saat %s de güncellenmiştir."
+
+msgid "The price was last updated on %s at %s."
+msgstr "Fiyat en son %s tarihinde saat %s de güncellenmiştir."
+
+msgid "Share"
+msgstr "Paylaş"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "Types"
+msgstr "Tipler"
+
+msgid "select %s"
+msgstr "%s seç"
+
+msgid "Teaser-Slider"
+msgstr "Teaser-Slider"
+
+msgid "Carousel-Indicator"
+msgstr "Karusell-Zeiger"
+
+msgid "Carousel-Control"
+msgstr "Karusell-Steuer"
+
+msgid "Should the carousel indicator buttons be displayed?"
+msgstr "Sollen die Karussell-Zeiger-Buttons angezeigt werden?"
+
+msgid "Should the carousel control buttons be displayed?"
+msgstr "Sollen die Karussell-Steuer-Pfeile angezeigt werden?"
+
+msgid "fade in"
+msgstr "einblenden"
+
+msgid "Slide-Effect"
+msgstr "Dia-Effekt"
+
+msgid "Slide right to left"
+msgstr "Slide von rechts nach links"
+
+msgid "Slide fade out"
+msgstr "Slide ausblenden"
+
+msgid "Data interval"
+msgstr "Zwischenzeit / Pause"
+
+msgid "Waiting time in milliseconds for the automatic cycle."
+msgstr "Die Höhe der Wartezeit in Millisekunden für automatischen Zyklus."
+
+msgid "Images"
+msgstr "Resimler"
+
+msgid "Image"
+msgstr "Resim"
+
+msgid "Add image"
+msgstr "Bild hinzufügen"
+
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Should this slider contain a text?"
+msgstr "Soll dieser Slider einen Text beinhalten?"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Should this slider be linked to a specific page/URL? Please specify %s"
+msgstr "Soll dieser Slider auf eine bestimmte Seite/URL verlinken? Bitte mit %s angeben."
+
+msgid "External Link"
+msgstr "Externer Link"
+
+msgid "Open in a new window."
+msgstr "Im neuen Fenster öffnen."
+
+msgid "Is this an external link?"
+msgstr "Handelt es sich hierbei um einen externen Link?"
+
+msgid "If so, this option can be opened in a new window."
+msgstr "Falls ja, kann dieser durch diese Option in einem neuen Fenster geöffnet werden."
+
+msgid "Nofollow"
+msgstr "Nofollow"
+
+msgid "add nofollow."
+msgstr "nofollow hinzufügen"
+
+msgid "Should this link be marked with \"nofollow\"?"
+msgstr "Soll dieser Link mit \"nofollow\" markiert werden?"
+
+msgid "Product"
+msgstr "Ürün"
+
+msgid "Products"
+msgstr "Ürünler"
+
+msgid "Description"
+msgstr "Açıklama"
+
+msgid "Offer"
+msgstr "Teklif"
+
+msgid "Offers"
+msgstr "Fırsatlar"
+
+msgid "Price"
+msgstr "Fiyat"
+
+msgid "Box shadow color"
+msgstr "Box-Schattenfarbe"
+
+msgid "Box shadow spread"
+msgstr "Box-Schattengröße in Pixel"
+
+msgid "Lateral distance of navigation"
+msgstr "Seitlicher Abstand der Navigation"
+
+msgid "Lateral line color in navigation"
+msgstr "Trennstrichfarbe in der Navigation"
+
+msgid "Lateral line thickness"
+msgstr "Trenstrichstärke"
+
+msgid "Hide lateral line"
+msgstr "Trennstriche ausblenden"
+
+msgid "Cookie policy"
+msgstr "Cookie politikasi"
+
+msgid "Disable cookie policy functionality?"
+msgstr "Disable cookie policy functionality?"
+
+msgid "Cookie policy message"
+msgstr "Cookie policy message"
+
+msgid "Please enter a text, which should be displayed in the notification bar."
+msgstr "Please enter a text, which should be displayed in the notification bar."
+
+msgid "Position"
+msgstr "Pozisyon"
+
+msgid "Select section for your cookie notice."
+msgstr "Select section for your cookie notice."
+
+msgid "Top"
+msgstr "Yukarda"
+
+msgid "Bottom"
+msgstr "Asagida"
+
+msgid "Cookie expiry"
+msgstr "Cookie expiry"
+
+msgid "The amount of time that cookie should be stored for."
+msgstr "The amount of time that cookie should be stored for."
+
+msgid "1 day"
+msgstr "1 gün"
+
+msgid "1 week"
+msgstr "1 hafta"
+
+msgid "1 month"
+msgstr "1 ay"
+
+msgid "3 months"
+msgstr "3 ay"
+
+msgid "6 months"
+msgstr "6 ay"
+
+msgid "1 year"
+msgstr "1 yil"
+
+msgid "infinity"
+msgstr "devamli"
+
+msgid "More info link"
+msgstr "More info link"
+
+msgid "Enter the full URL starting with http://"
+msgstr "Enter the full URL starting with http://"
+
+msgid "The text of the more info button."
+msgstr "The text of the more info button."
+
+msgid "Standard is 'more information'"
+msgstr "Standard is 'more information'"
+
+msgid "more information"
+msgstr "more information"
+
+msgid "Disable more information button?"
+msgstr "Disable more information button?"
+
+msgid "Should the button be hidden for more information?"
+msgstr "Should the button be hidden for more information?"
+
+msgid "Button text"
+msgstr "Button text"
+
+msgid "Standard is 'Ok'"
+msgstr "Standard is 'Ok'"
+
+msgid "Ok"
+msgstr "Tamam"
+
+msgid "Animation"
+msgstr "Animasyon"
+
+msgid "Cookie notice acceptance animation."
+msgstr "Cookie notice acceptance animation."
+
+msgid "Fade"
+msgstr "Fade"
+
+msgid "Slide"
+msgstr "Slide"
+
+msgid "To make this site work properly, we place small data files called cookies on your device."
+msgstr "To make this site work properly, we place small data files called cookies on your device."
+
+msgid "Message font size"
+msgstr "Message font size"
+
+msgid "Accept button font size"
+msgstr "Accept button font size"
+
+msgid "Read more button font size"
+msgstr "Read more button font size"
+
+msgid "Cookie policy background opacitiy (%)"
+msgstr "Cookie policy background opacitiy (%)"
+
+msgid "Message font color"
+msgstr "Message font color"
+
+msgid "Message background color"
+msgstr "Message background color"
+
+msgid "Accept button font color"
+msgstr "Accept button font color"
+
+msgid "Accept button bg color"
+msgstr "Accept button bg color"
+
+msgid "Read more button font color"
+msgstr "Read more button font color"
+
+msgid "Read more button background color"
+msgstr "Read more button background color"
+
+msgid "No results found."
+msgstr "Sonuç bulunamadı."
+
+msgid "%s products found."
+msgstr "%s adet ürün bulundu."
+
+msgid "One product found."
+msgstr "Bir adet ürün bulundu."
+
+msgid "Sorry, no products found."
+msgstr "Malesef hiç bir ürün bulunamadı."
+
+msgid "Your search for \"%s\" found <span>%s</span> hits"
+msgstr "\"%s\" aramanız için <span>%s</span> adet sonuç bulundu"
+
