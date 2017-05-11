@@ -1,7 +1,7 @@
 /*
 Theme Name: Affiliseo - Theme - Child
 Theme URI: http://affiliseo.de
-Description: affiliseo – Affiliate-Theme Child
+Description: affiliseo ï¿½ Affiliate-Theme Child
 Author: Affiliseo
 Author URI: http://seogoal.de
 Template: affiliatetheme
@@ -11,7 +11,7 @@ Version: 1.0
 /*!  
  * Theme Name: Affiliate-Theme
  * Theme URI: http://affiliseo.de
- * Description: affiliseo - Affiliate-Theme // <strong>Diese Software ist gem. § 69a Abs. 3 UrhG urheberrechtlich geschützt. Das Plagiieren und Verbreiten der Software oder von Codesegmenten stellt eine starfbare Handlung dar und kann eine Geld- oder Haftstrafe nach sich ziehen. Des Weiteren besteht seitens des Entwicklers ein Unterlassungsanspruch. Das Plagiieren und Verbreiten der Software oder von Codesegmenten kann kostenpflichtig abgemahnt werden. In diesem Fall behält sich der Entwickler die Beantragung einer einstweiligen Verfügung oder eine Unterlassungsklage vor.</strong>
+ * Description: affiliseo - Affiliate-Theme // <strong>Diese Software ist gem. ï¿½ 69a Abs. 3 UrhG urheberrechtlich geschï¿½tzt. Das Plagiieren und Verbreiten der Software oder von Codesegmenten stellt eine starfbare Handlung dar und kann eine Geld- oder Haftstrafe nach sich ziehen. Des Weiteren besteht seitens des Entwicklers ein Unterlassungsanspruch. Das Plagiieren und Verbreiten der Software oder von Codesegmenten kann kostenpflichtig abgemahnt werden. In diesem Fall behï¿½lt sich der Entwickler die Beantragung einer einstweiligen Verfï¿½gung oder eine Unterlassungsklage vor.</strong>
  * Author: AffiliSeo
  * Author URI: http://affiliseo.de
  * Version: 4.3
@@ -3280,4 +3280,8 @@ td a.btn.btn-ap.btn-block {
 	display: block;
 	font-size: 15px;
 	top: 0;
+}
+
+.logo img {
+	max-width: 120px;
 }
