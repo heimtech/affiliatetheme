@@ -518,7 +518,7 @@ if (trim($affiliseo_options['layout_wrapper_background']) !== '1' && trim($full_
                             <?php
                         }
                         ?>
-                        <div class="col3 logo">
+                        <div class="col2 logo">
                             <?php
                             
                             if (get_theme_mod('affiliseo_logo')) {
@@ -536,17 +536,10 @@ if (trim($affiliseo_options['layout_wrapper_background']) !== '1' && trim($full_
 						<p><?php bloginfo('description'); ?></p>
                             <?php } ?>
                         </div>
-                            <div class="col3 categoryList">
 
-                            <?php if ( is_active_sidebar( 'sidebar-custom-header' ) ) : ?>
-                             <div id="sidebar-header">
-                             <?php dynamic_sidebar( 'sidebar-custom-header' ); ?>
-                             </div>
-                             <?php endif; ?>
 
-                        </div>
 
-					<div class="col6">
+					<div class="col10 col-xs-12 col-sm-10 suchformular">
 						<div class="ad">
                                 <?php if ($affiliseo_options['ad_header'] != "") { ?>
                                     <?php echo $affiliseo_options['ad_header']; ?>
@@ -555,7 +548,16 @@ if (trim($affiliseo_options['layout_wrapper_background']) !== '1' && trim($full_
 								style="height: 60px; width: 200px"></div>
                                 <?php } ?>
                             </div>
-						<div id="search-header">
+
+
+                            <?php if ( is_active_sidebar( 'sidebar-custom-header' ) ) : ?>
+                             <div id="sidebar-header" class="col4">
+                             <?php dynamic_sidebar( 'sidebar-custom-header' ); ?>
+                             </div>
+                             <?php endif; ?>
+
+
+						<div id="search-header" class="col4">
                                 <?php if ($affiliseo_options['allg_suchformular_ausblenden'] != "1") { ?>
                                     <form role="search" method="get"
 								id="searchform" class="searchform_header pull-right"
