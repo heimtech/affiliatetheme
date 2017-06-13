@@ -1,11 +1,15 @@
 <?php
 add_action( "wp_enqueue_scripts", "theme_enqueue_styles" );
 
+
+
 function theme_enqueue_styles() {
 	wp_enqueue_style( "parent-style", get_template_directory_uri() . "/style.css" );
 	wp_enqueue_style( "child-style", get_stylesheet_uri(), array( "parent-style" ) );
 
-	/* fix Library issue / Lässt sich nicht erneut einbinden? 
+    wp_enqueue_script( 'theme_js', get_stylesheet_directory_uri() . '/js/js.js', array( 'jquery' ), '1.0', true );
+
+    /* fix Library issue / Lässt sich nicht erneut einbinden?
 	wp_enqueue_style("jquery_custom", get_template_directory_uri() . "/_/js/jquery-1.11.3.min.js", false, "1.0", "all");
     wp_enqueue_style("font_awesome_admin", get_template_directory_uri() . "/css/font-awesome.css", false, "1.0", "all"); // CSS
     wp_enqueue_style("taxonomies_images", get_template_directory_uri() . "/library/admin/css/taxonomies-images.css", false, "1.0", "all");
@@ -14,64 +18,8 @@ function theme_enqueue_styles() {
 
 
 add_shortcode('list_producttype', 'list_producttypes');
-add_shortcode('rating_bar', 'render_rating_bar');
-add_shortcode('budget', 'render_budget');
-add_shortcode('winner', 'render_winner');
-
-function render_budget($atts, $content = null)
-{
 
 
-
-    $response = '<img class="awardIcon" src="' . get_stylesheet_directory_uri() .   '/budget.png"  />'  ;
-
-
-    return $response;
-}
-
-
-function render_winner($atts, $content = null)
-{
-
-
-
-    $response = '<img class="awardIcon" src="' . get_stylesheet_directory_uri() .   '/winner.png"  />'  ;
-
-
-    return $response;
-}
-
-
-function render_rating_bar($atts, $content = null)
-{
-
-    $a = shortcode_atts(array(
-        "color" => "red",
-        "begin" => 0,
-        "end" => 100,
-        "value" => 90
-
-    ), $atts);
-
-    $color = $a['color'];
-    $begin = $a['begin'];
-    $end = $a['end'];
-    $value = $a['value'];
-
-    $ratingBarClassAppend = "";
-
-    if($color == 'blue') {
-        $ratingBarClassAppend = "sub_";
-
-    }
-
-    $width = ($value / $end) * 100;
-
-    $response = '<div class="rating_bar_box"><div class="rating_bar_end">' .  $end . '</div><div class="rating_bar_begin">' . $begin . '</div><div class="'. $ratingBarClassAppend.'rating_bar_scale_box"> <div class="'. $ratingBarClassAppend.'rating_bar" style="width: '. $width .'px"><div class="rating_score">'. $value.'</div></div></div></div>'  ;
-
-
-    return $response;
-}
 
 function list_producttypes($atts, $content = null)
 {
