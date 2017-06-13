@@ -334,7 +334,7 @@ class ComparisonAttributes
     public function getProductReviewValue($postId)
     {
         if (isset($this->affiliseoOptions['hide_product_review']) && $this->affiliseoOptions['hide_product_review'] == 1) {
-            return '';
+            return 'Hide product review';
         }
         
         $productReviewSummary = get_field('ProductReviewSummary', $postId);
