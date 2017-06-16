@@ -76,7 +76,7 @@ foreach ($comparisonAttributeList as $key => $comparisonAttribute) {
                 $highlightedColumnsRow .= '<td class="highlighted_empty_column highlighted_empty_column_'.$compareTableId.'">&nbsp;</td>';
             }
             
-            $tableHeader .= '<td ' . $highlightedColumnStyle . ' class="compare-product-title compare-product-title-'.$compareTableId.'" id="col-' . $comparisonProduct->ID . '-'.$compareTableId.'"><a href="' .   $comparisonProduct->getTrackingLinks()->affiliateLink . '">' . $productTitle . '</a></td>';
+            $tableHeader .= '<td ' . $highlightedColumnStyle . ' class="compare-product-title compare-product-title-'.$compareTableId.'" id="col-' . $comparisonProduct->ID . '-'.$compareTableId.'"><a href="' .  get_field('ap_pdp_link', $comparisonProduct->ID ) . '">' . $productTitle . '</a></td>';
             
             $tableFooter .= '<td ' . $highlightedColumnStyle . ' class="compare-choose-cell">';
             $tableFooter .= '<input class="compare-choose-product compare-choose-product-'.$compareTableId.'" type="checkbox" id="compare-product_' . $comparisonProduct->ID . '_'.$compareTableId.'" name="compare-product_' . $comparisonProduct->ID . '" value="' . $comparisonProduct->ID . '" />';
